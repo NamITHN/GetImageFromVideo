@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.media.MediaView?>
+
+<GridPane alignment="center" hgap="10" vgap="10" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <columnConstraints>
+      <ColumnConstraints />
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+      <RowConstraints />
+   </rowConstraints>
+   <children>
+      <AnchorPane prefHeight="452.0" prefWidth="455.0">
+         <children>
+            <Button layoutX="14.0" layoutY="14.0" mnemonicParsing="false" onAction="#openFile" text="ChooseFile" />
+            <MediaView fx:id="mv" fitHeight="150.0" fitWidth="200.0" layoutX="217.0" layoutY="13.0" />
+            <ListView fx:id="listView" layoutX="14.0" layoutY="240.0" prefHeight="191.0" prefWidth="191.0" onMouseClicked="#showImage"/>
+            <Button layoutX="217.0" layoutY="200.0" mnemonicParsing="false" onAction="#takeImage" text="TakeImage" />
+            <Button layoutX="217.0" layoutY="163.0" mnemonicParsing="false" onAction="#play" prefHeight="25.0" prefWidth="74.0" text="Play" />
+            <Button layoutX="346.0" layoutY="163.0" mnemonicParsing="false" onAction="#pause" prefHeight="25.0" prefWidth="47.0" text="Pause" />
+            <Button layoutX="346.0" layoutY="200.0" mnemonicParsing="false" onAction="#exit" prefHeight="25.0" prefWidth="47.0" text="Exit" />
+            <ListView fx:id="listFile" layoutX="14.0" layoutY="43.0" onMouseClicked="#onclick" prefHeight="168.0" prefWidth="191.0" />
+            <ImageView fx:id="img" fitHeight="191.0" fitWidth="227.0" layoutX="214.0" layoutY="244.0" pickOnBounds="true" preserveRatio="true" />
+         </children>
+      </AnchorPane>
+   </children>
+</GridPane>
