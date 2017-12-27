@@ -1,0 +1,42 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/modules/java/android_test/src" />
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/modules/java/common_test/src" />
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/modules/java/pure_test/src" />
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/platforms/android/service/engine/src" />
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/platforms/maven/opencv-it/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/samples/android/15-puzzle/src" />
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/samples/android/camera-calibration/src" />
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/samples/android/color-blob-detection/src" />
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/samples/android/face-detection/src" />
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/samples/android/image-manipulations/src" />
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/samples/android/mobilenet-objdetect/src" />
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/samples/android/tutorial-1-camerapreview/src" />
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/samples/android/tutorial-2-mixedprocessing/src" />
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/samples/android/tutorial-3-cameracontrol/src" />
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/samples/android/tutorial-4-opencl/src" />
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/samples/java" />
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/samples/java/ant/src" />
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/samples/java/eclipse/HelloCV/src" />
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/samples/java/sbt/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/samples/java/tutorial_code/ImgProc/HitMiss" />
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/samples/java/tutorial_code/ImgProc/Pyramids" />
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/samples/java/tutorial_code/ImgProc/Smoothing" />
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/samples/java/tutorial_code/ImgProc/morph_lines_detection" />
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/samples/java/tutorial_code/ImgProc/tutorial_template_matching" />
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/samples/java/tutorial_code/ImgTrans/Filter2D" />
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/samples/java/tutorial_code/ImgTrans/HoughLine" />
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/samples/java/tutorial_code/ImgTrans/LaPlace" />
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/samples/java/tutorial_code/ImgTrans/MakeBorder" />
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/samples/java/tutorial_code/ImgTrans/SobelDemo" />
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/samples/java/tutorial_code/core/AddingImages" />
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/samples/java/tutorial_code/core/BasicGeometricDrawing" />
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/samples/java/tutorial_code/core/discrete_fourier_transform" />
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/samples/java/tutorial_code/core/mat_mask_operations" />
+      <root url="jar://$USER_HOME$/Downloads/opencv-3.4.0.zip!/opencv-3.4.0/samples/java/tutorial_code/introduction/documentation" />
+    </SOURCES>
+  </library>
+</component>

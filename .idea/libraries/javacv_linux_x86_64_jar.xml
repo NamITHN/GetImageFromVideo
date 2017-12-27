@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="javacv-linux-x86_64.jar">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="jar://$USER_HOME$/Downloads/javacv-linux-x86_64.jar.zip!/" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
